@@ -17,9 +17,6 @@ function App() {
                 alt="DM Flow Logo"
                 className="h-10"
               />
-              {/* <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                DMFlow
-              </span> */}
             </div>
 
             {/* Desktop Menu */}
@@ -104,9 +101,9 @@ function App() {
           </div>
           <div>
             <div className="text-4xl font-bold bg-gradient-to-r from-pink-400 to-blue-400 bg-clip-text text-transparent mb-2">
-              10-20%
+              5-15%
             </div>
-            <div className="text-gray-400">AOV Increase</div>
+            <div className="text-gray-400">Conversion Rate</div>
           </div>
           <div>
             <div className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-2">
@@ -387,13 +384,10 @@ function App() {
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <img
-                  src="https://placehold.co/40x40/2563eb/white?text=Logo"
-                  alt="DMFlow Logo"
-                  className="w-10 h-10 rounded-lg"
+                  src={logoSrc}
+                  alt="DM Flow Logo"
+                  className="h-10"
                 />
-                <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                  DMFlow
-                </span>
               </div>
               <p className="text-gray-400 leading-relaxed">
                 Unlock New Revenue with Instagram DM Automation for DTC Brands
