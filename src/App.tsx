@@ -88,12 +88,6 @@ function App() {
       <section className="py-16 px-6 lg:px-8 bg-gray-900 text-white">
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
           <div>
-            <div className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-2">
-              7x
-            </div>
-            <div className="text-gray-400">ROAS on Chatbot Ads</div>
-          </div>
-          <div>
             <div className="text-4xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-2">
               90%+
             </div>
@@ -104,6 +98,12 @@ function App() {
               5-15%
             </div>
             <div className="text-gray-400">Conversion Rate</div>
+          </div>
+          <div>
+            <div className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-2">
+              4-7x
+            </div>
+            <div className="text-gray-400">ROAS on Chatbot Ads</div>
           </div>
           <div>
             <div className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-2">
