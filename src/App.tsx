@@ -222,7 +222,7 @@ function App() {
         </div>
       </section>
 
-      {/* Automations Section */}
+      {/*Automations Section */}
       <section id="automations" className="py-24 px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
