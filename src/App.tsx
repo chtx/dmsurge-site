@@ -14,7 +14,7 @@ function App() {
             <div className="flex items-center gap-3">
               <img
                 src={logoSrc}
-                alt="DM Flow Logo"
+                alt="DM Surge Logo"
                 className="h-10"
               />
             </div>
@@ -385,7 +385,7 @@ function App() {
               <div className="flex items-center gap-3 mb-4">
                 <img
                   src={logoSrc}
-                  alt="DM Flow Logo"
+                  alt="DM Surge Logo"
                   className="h-10"
                 />
               </div>
@@ -431,6 +431,7 @@ function App() {
               <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
               <ul className="space-y-3 text-gray-400">
                 <li>
+                  DM Surge Services
                   Al. Jerozolimskie 181/5<br />
                   02-222 Warsaw, Poland
                 </li>
@@ -450,7 +451,7 @@ function App() {
 
           {/* Copyright */}
           <div className="pt-8 border-t border-gray-800 text-center text-gray-400 text-sm">
-            © 2025 DMFlow. All rights reserved.
+            © 2025 DM Surge. All rights reserved.
           </div>
         </div>
       </footer>
